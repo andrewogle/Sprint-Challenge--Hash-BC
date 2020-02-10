@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "python.pythonPath": "C:\\Users\\andre\\.virtualenvs\\Blockchain-s-hm53tm\\Scripts\\python.exe",
+=======
+    "python.pythonPath": "C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+>>>>>>> 9f452f4e946f59c6c26b1fdca30574f112725dc7
     "workbench.colorCustomizations": {
         "activityBar.background": "#242E3C",
         "titleBar.activeBackground": "#334054",
